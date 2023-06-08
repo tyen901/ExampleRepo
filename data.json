@@ -1,77 +1,77 @@
 
 [
 	{
-		"Name": "afro-buzz-cut.afro-buzz-cut",
+		"Name": "afro buzz cut",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/afro-buzz-cut.afro-buzz-cut",
 		"Masks": {},
 		"Tags": ["hair"],
 		"BlocksTags": ["hair"]
 	},
 	{
-		"Name": "afro-spiky-hair.afro-spiky-hair",
+		"Name": "afro spiky hair",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/afro-spiky-hair.afro-spiky-hair",
 		"Masks": {},
 		"Tags": ["hair"],
 		"BlocksTags": ["hair"]
 	},
 	{
-		"Name": "box-braid-bun.box-braid-bun",
+		"Name": "box braid bun",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/box-braid-bun.box-braid-bun",
 		"Masks": {},
 		"Tags": ["hair"],
 		"BlocksTags": ["hair"]
 	},
 	{
-		"Name": "chic-bun-medium.chic-bun-medium",
+		"Name": "chic bun medium",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/chic-bun-medium.chic-bun-medium",
 		"Masks": {},
 		"Tags": ["hair"],
 		"BlocksTags": ["hair"]
 	},
 	{
-		"Name": "classic-short.classic-short",
+		"Name": "classic short",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/classic-short.classic-short",
 		"Masks": {},
 		"Tags": ["hair"],
 		"BlocksTags": ["hair"]
 	},
 	{
-		"Name": "cool-cut.cool-cut",
+		"Name": "cool cut",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/cool-cut.cool-cut",
 		"Masks": {},
 		"Tags": ["hair"],
 		"BlocksTags": ["hair"]
 	},
 	{
-		"Name": "cornrow-hair.cornrow-hair",
+		"Name": "cornrow",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/cornrow-hair.cornrow-hair",
 		"Masks": {},
 		"Tags": ["hair"],
 		"BlocksTags": ["hair"]
 	},
 	{
-		"Name": "cute-cut.cute-cut",
+		"Name": "cute cut",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/cute-cut.cute-cut",
 		"Masks": {},
 		"Tags": ["hair"],
 		"BlocksTags": ["hair"]
 	},
 	{
-		"Name": "dread-locks.dread-locks",
+		"Name": "dread locks",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/dread-locks.dread-locks",
 		"Masks": {},
 		"Tags": ["hair"],
 		"BlocksTags": ["hair"]
 	},
 	{
-		"Name": "elegant-cut.elegant-cut",
+		"Name": "elegant cut",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/elegant-cut.elegant-cut",
 		"Masks": {},
 		"Tags": ["hair"],
 		"BlocksTags": ["hair"]
 	},
 	{
-		"Name": "long-with-fringe.long-with-fringe",
+		"Name": "long with fringe",
 		"Mesh": "/Game/_Project/Assets/Characters/components/hair/long-with-fringe.long-with-fringe",
 		"Masks": {},
 		"Tags": ["hair"],
